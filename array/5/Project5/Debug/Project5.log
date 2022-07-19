@@ -1,0 +1,12 @@
+﻿  소스.cpp
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,18): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,20): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,22): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,24): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,26): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,28): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,30): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,32): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,34): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MHC\source\repos\Project5\Project5\소스.cpp(11,36): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project5.vcxproj -> C:\Users\MHC\source\repos\Project5\Debug\Project5.exe

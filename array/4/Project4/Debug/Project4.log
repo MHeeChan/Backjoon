@@ -1,0 +1,5 @@
+﻿  소스.cpp
+D:\BaekJoon\Project4\Project4\소스.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\BaekJoon\Project4\Project4\소스.cpp(30,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\BaekJoon\Project4\Project4\소스.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project4.vcxproj -> D:\BaekJoon\Project4\Debug\Project4.exe

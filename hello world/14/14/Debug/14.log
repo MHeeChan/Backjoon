@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\BaekJoon\hello world\14\14\Source.cpp(19,13): warning C4129: '|': unrecognized character escape sequence
+D:\BaekJoon\hello world\14\14\Source.cpp(20,13): warning C4129: '|': unrecognized character escape sequence
+  14.vcxproj -> D:\BaekJoon\hello world\14\Debug\14.exe
